@@ -6,5 +6,6 @@ into two parts Covid Vaccination and Covid Death. Then Perform SQL queries on th
 
 Second Sub-Projects is related to Data Visualization using Tableau. In Tableau I used resulted data(table) after applied sql queries
 and then genrate some graphs for data visualisation.(query1-result.xsls,query2-result.xsls,query3-result.xsls,query4-result.xsls)
+Link for Tableau Work -> https://public.tableau.com/app/profile/amandeep.singh4897/viz/Covid_D-Data_Project/Dashboard1
 
 Third Sub-Project is related to Data Cleaning using SQL Server(SSMS) Nashville Housing file. 
